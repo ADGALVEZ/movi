@@ -1,0 +1,18 @@
+*{
+    background: black;
+    font-family: 'Lato', sans-serif;
+}
+.sopa{
+    color: white;
+    text-align: center;
+font-size: 30px;
+}
+.cartoon{
+    color: white;
+    position: fixed;
+
+}
+.cartoon-v{
+    position: fixed;
+    margin-top: 3.5%;
+}

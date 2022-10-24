@@ -1,0 +1,46 @@
+*{
+    font-family: 'Lato', sans-serif;
+    background-color: black;
+}
+
+.boton-peliculas{
+        position: fixed;
+        left: 1300px;
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        font-size: 25px;
+        top: 1px;
+        margin: 1.5%;
+    }
+.letra{
+    color: white;
+}
+.boton-serie{
+    position: fixed;
+    left: 1200px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    top: 1px;
+    margin: 1.5%;
+}
+.boton-canales{
+    position: fixed;
+    left: 1050px;
+    text-decoration: none;
+    color: white;
+    font-size:25px ;
+    top: 1px;
+    margin: 1.5%;
+    
+}
+.buscador{
+    position: absolute;
+    top: 1px;
+    margin: 1.5%;
+    left:800px ;
+    transform: translate(-50% -50%);
+    color: white;
+    border-radius: 5px ;
+    font-size: 16px;
+}
